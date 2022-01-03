@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+
+tutorial: https://www.youtube.com/watch?v=2g1ZjA6zHRo
